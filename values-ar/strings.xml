@@ -81,13 +81,13 @@
     <string name="draft_townhall00_title">قاعة البلدية</string>
     <string name="draft_townhall00_text">المدينة الكبيرة تحتاج إلى قاعة بلدية. سيحبها السكان .</string>
     <string name="draft_wire00_title">أسلاك</string>
-    <string name="draft_wire00_text">تُستخدم الأسلاك لنقل الطاقة من محطات الطاقة الخاصة بك إلى مدينتك.</string>
+    <string name="draft_wire00_text">تُستخدم لنقل الطاقة من محطات الطاقة إلى مدينتك.</string>
     <string name="draft_windturbine00_title">توربينات الرياح</string>
-    <string name="draft_windturbine00_text">توربينات الرياح تولد الكهرباء من الرياح. لا تلوث البيئة ولكنها تسبب الضوضاء.</string>
+    <string name="draft_windturbine00_text"> تولد الكهرباء من الرياح. لا تلوث البيئة ولكنها تسبب الضوضاء.</string>
     <string name="draft_coalplant00_title">مصنع الفحم</string>
-    <string name="draft_coalplant00_text">يقوم مصنع الفحم بتوليد الكهرباء عن طريق حرق الفحم. إنه يلوث البيئة و لا يريد الناس العيش بالقرب منه.</string>
+    <string name="draft_coalplant00_text">يقوم بتوليد الكهرباء عن طريق حرق الفحم. إنه يلوث البيئة و لا يريد الناس العيش بالقرب منه.</string>
     <string name="draft_solarpanels00_title">الألواح الشمسية</string>
-    <string name="draft_solarpanels00_text">الألواح الشمسية تولد الكهرباء من الشمس.</string>
+    <string name="draft_solarpanels00_text"> تولد الكهرباء من الشمس.</string>
     <string name="draft_park00_title">حديقة صغيرة</string>
     <string name="draft_park00_text">سيحبها السكان.</string>
     <string name="draft_park01_title">حديقة صغيرة</string>
