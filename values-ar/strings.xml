@@ -1115,19 +1115,17 @@
     <string name="draft_feature_ranger00_text">أعد إحياء بيئة مدينتك مع هذه الحزمة! نقدم لك كوخ الحارس، الذي يُحدث ثورة في إعادة زراعة الأشجار. قل وداعاً لمشاكل التلوث حيث يقوم هذا الابتكار التلقائي بتجديد المساحات الخضراء في مدينتك بسهولة. يمكنك القيام بالترقية الآن ودع الطبيعة تزدهر بفضل قوة إعادة التشجير الآلية!</string>
     <string name="draft_ranger00_title">كوخ المزارع</string>
     <string name="draft_ranger00_text">في بعض الأحيان، يجب إعادة زراعة الأشجار إذا كانت البيئة ملوثة للغاية. يقوم هذا الكوخ بإعادة زراعة الأشجار تلقائياً.</string>
-
-    <string name="ci_general_citypoints">City points: %1$s</string>
-    <string name="settings_ringbuildindicator">Construction indicator</string>
-
-    <string name="draft_tool_car_follower00_title">Follow car</string>
-    <string name="draft_tool_car_follower00_text">Just follows a random car.</string>
-    <string name="draft_mltry_bunker00_title">Bunker</string>
-    <string name="draft_mltry_bunker00_text">Inhabitants feel safe near bunkers. At least they\'re fireproof.</string>
-    <string name="draft_zoneairport_title">Airfield</string>
-    <string name="draft_zoneairport_text">Build your airport within this airfield zone.</string>
-    <string name="draft_decoletters00_title">Letters</string>
-    <string name="draft_decoletters00_text">Just some letters to give %1$s a personal touch.</string>
-    <string name="draft_feature_letters00_title">Letters decoration</string>
+    <string name="ci_general_citypoints">نقاط المدينة: %1$s</string>
+    <string name="settings_ringbuildindicator">مؤشر الإنشاء</string>
+    <string name="draft_tool_car_follower00_title">اللحاق بسيارة</string>
+    <string name="draft_tool_car_follower00_text">.فقط إلحق بسيارة عشوائية</string>
+    <string name="draft_mltry_bunker00_title">ملجأ</string>
+    <string name="draft_mltry_bunker00_text">.يشعر السكان بالأمان بالفرب من الملاجئ. على الأقل هي مضادة ضد الحرائق</string>
+    <string name="draft_zoneairport_title">المجال الجوي</string>
+    <string name="draft_zoneairport_text">.إبن مطارك داخل منطقة المجال الجوي هته</string>
+    <string name="draft_decoletters00_title">أحرف</string>
+    <string name="draft_decoletters00_text">بعض الأحرف لتعطي %1$s لمسة شخصية</string>
+    <string name="draft_feature_letters00_title">زينة الأحرف</string>
     <string name="draft_feature_letters00_text">Unlock the Decorative Letter Set and add a touch of personality to your cityscape! Place these versatile letters anywhere you desire for delightful decorative purposes. Spell out city names, create custom signage, or simply add a whimsical touch to your urban landscape. Upgrade now and let your creativity take center stage!</string>
 
     <string name="tool_eye_dropper">Select a road or building</string>
